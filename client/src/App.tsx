@@ -569,7 +569,7 @@ export default function ChineseTilesMultiplayer() {
               Sign in with Google
             </button>
           </div>
-        <h3 className='text-center text-sm text-neutral-600 mb-6 italic'>Made with ❤️ by Ayomide</h3>
+        <h3 className='text-center text-sm text-neutral-600 mb-6 italic'>Made with ❤️ by jared</h3>
         </div>
       </div>
     );
